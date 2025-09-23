@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Erro de Senha</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+
+
+    .erro-container button {
+      width: 100%;
+      height: 45px;
+      background: #14CD64;
+      border: none;
+      outline: none;
+      border: none;
+      border-radius: 40px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, .1);
+      cursor: pointer;
+      font-size: 16px;
+      color: white;
+    }
+    .erro-container button:hover {
+      background-color: #0F6262;
+      transition: all .3s
+    }
+  </style>
+</head>
+<body>
+  <div class="erro-container">
+    <h2>Senha incorreta!</h2>
+    <div class="resto">
+      <p>Você digitou a senha errada. Tente novamente.</p>
+      <button onclick="window.location.href='index.html'">Voltar</button>
+    </div>
+  </div>
+</body>
+</html>
