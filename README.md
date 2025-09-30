@@ -27,7 +27,7 @@ As seguintes ferramentas e tecnologias foram utilizadas na construção do proje
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/ferinoSZ/login-frontend.git](https://github.com/ferinoSZ/login-frontend.git)
+   git clone https://github.com/ferinoSZ/login-frontend.git
    ```
 2. Navegue até o diretório principal do projeto:
    ```bash
