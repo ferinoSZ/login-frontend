@@ -3,6 +3,13 @@
 ![Badge de Status](https://img.shields.io/badge/status-conclu%C3%ADdo-green)
 <br>
 
+<p align="center">
+  <img alt="Layout do Projeto" src="img/main.png" width="100%">
+</p>
+<p align="center">
+  <img alt="Layout do Projeto" src="img/incorreto.png" width="100%">
+</p>
+
 ## 📝 Descrição
 
 Este projeto é a interface de front-end para um painel de administração, desenvolvido como um trabalho para um amigo. Ele apresenta uma visão geral de dados com tabelas e formulários interativos.
